@@ -42,13 +42,13 @@ p.boxed {
     color: white;
 }
 @font-face {
-	font-family: Pi Sheng;
+	font-family: "Pi Sheng";
 	src: url(Pi Sheng.otf);
 }
 h1 {
     color: white;
 	font-size: 100px;
-	font-family: Pi Sheng;
+	font-family: "Pi Sheng";
 }
 @font-face {
 	font-family: cool;

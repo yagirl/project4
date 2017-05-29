@@ -25,7 +25,7 @@ p.boxed {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-	font-family: graffiti;
+	font-family: "graffiti";
 }
 .menulist a:hover {
 	background-color: #FFB4F4;
@@ -35,7 +35,7 @@ p.boxed {
 }
 
 @font-face {
-    font-family: graffiti;
+    font-family: "graffiti";
 	src: url(graffiti.otf);
 }
 .p {

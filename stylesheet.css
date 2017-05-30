@@ -52,7 +52,7 @@ h1 {
 }
 @font-face {
 	font-family: cool;
-	src url:(cool.ttf);
+	src:url(cool.ttf);
 }
 p {
 	color: white;
